@@ -50,9 +50,9 @@ export default function Home() {
           NEXUSCRM
         </span>
         <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
-          <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" className="border border-indigo-400 text-indigo-200 px-5 py-2 text-sm font-semibold hover:bg-indigo-800 transition tracking-wide">
+          <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" className="border border-indigo-400 text-indigo-200 px-5 py-2 text-sm font-semibold hover:bg-indigo-800 transition tracking-wide">
             📅 Réserver un créneau →
-          </a>
+          </button>
           <a href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20NexusCRM%20avec%20Wikolabs." target="_blank" rel="noopener noreferrer" className="border border-indigo-400 text-indigo-200 px-5 py-2 text-sm font-semibold hover:bg-indigo-800 transition tracking-wide" style={{ background: "#25d366", borderColor: "#25d366" }}>
             💬 WhatsApp →
           </a>
@@ -74,9 +74,9 @@ export default function Home() {
           NexusCRM orchestre qualification, relance, scoring, proposition et suivi en parallèle — chaque agent travaille sans relâche, tout est synchronisé dans votre CRM.
         </p>
         <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
-          <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-500 text-white px-10 py-4 font-bold text-base hover:bg-indigo-400 transition shadow-xl tracking-wide">
+          <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-500 text-white px-10 py-4 font-bold text-base hover:bg-indigo-400 transition shadow-xl tracking-wide">
             📅 Réserver un créneau →
-          </a>
+          </button>
           <a href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20NexusCRM%20avec%20Wikolabs." target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-500 text-white px-10 py-4 font-bold text-base hover:bg-indigo-400 transition shadow-xl tracking-wide" style={{ background: "#25d366", borderColor: "#25d366" }}>
             💬 WhatsApp →
           </a>
@@ -157,9 +157,9 @@ export default function Home() {
         </h2>
         <p className="text-indigo-300 mb-8 max-w-lg mx-auto">Connexion à votre CRM existant en moins de 2 heures. Salesforce, HubSpot, Pipedrive.</p>
         <div style={{ display: "flex", gap: "12px", justifyContent: "center", flexWrap: "wrap" }}>
-          <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-500 text-white px-10 py-4 font-bold text-base hover:bg-indigo-400 transition tracking-wide">
+          <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-500 text-white px-10 py-4 font-bold text-base hover:bg-indigo-400 transition tracking-wide">
             📅 Réserver un créneau →
-          </a>
+          </button>
           <a href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20NexusCRM%20avec%20Wikolabs." target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-500 text-white px-10 py-4 font-bold text-base hover:bg-indigo-400 transition tracking-wide" style={{ background: "#25d366", borderColor: "#25d366" }}>
             💬 WhatsApp →
           </a>
